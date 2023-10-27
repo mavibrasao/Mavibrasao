@@ -15,10 +15,10 @@
 ## Contact
 <div>
   <p>Want to connect with me? Here are my platforms</p>
-  <a href="https://www.linkedin.com/in/mavibrasao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/linkedin.svg" alt="https://www.linkedin.com/in/mavibrasao/" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/hello.mavibrasao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/instagram.svg" alt="https://www.instagram.com/hello.mavibrasao/" height="30" width="40" /></a>
-  <a href="https://www.behance.net/mavibrasao" target="blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/behance.svg" alt="https://www.behance.net/mavibrasao" height="30" width="40" /></a>
-  <a href="https://dribbble.com/mavibrasao" target="blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/dribbble.svg" alt="https://dribbble.com/mavibrasao" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mavibrasao/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/linkedin.svg" alt="https://www.linkedin.com/in/mavibrasao/" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/hello.mavibrasao/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/instagram.svg" alt="https://www.instagram.com/hello.mavibrasao/" height="30" width="40" /></a>
+  <a href="https://www.behance.net/mavibrasao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/behance.svg" alt="https://www.behance.net/mavibrasao" height="30" width="40" /></a>
+  <a href="https://dribbble.com/mavibrasao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/dribbble.svg" alt="https://dribbble.com/mavibrasao" height="30" width="40" /></a>
   <a href="mailto:hello.mavibrasao@gmail.com"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/email.svg" alt="Send e-mail to hello.mavibrasao@gmail.com" height="30" width="40" /></a>
 </div>
 
