@@ -8,11 +8,11 @@
   <!--<h3>Awards and Achievements</h3>-->
 </div>
 
-## Work and projects
+<!--## Work and projects
 <div>
   <p>Here are some of my recent projects that I've been working on and languages/tools that I work with</p>
-  <!--<p>Please find me on LinkedIn for a more detailed description of my full work experience, education and certification.</p>-->
-</div>
+  <p>Please find me on LinkedIn for a more detailed description of my full work experience, education and certification.</p>
+</div>-->
 
 ## Contact
 <div>
