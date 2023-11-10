@@ -1,7 +1,7 @@
 #  Olá, eu sou o Marcos Brasão 👋
 ## Um pouco sobre mim
 <div>
-  <p>Me chamo Marcos Brasão e sou Desenvolvedor Front-End Júnior, atualmente morando na cidade de São Paulo, Brasil. Minha paixão pelo desenvolvimento de soluções digitais inovadoras e amigáveis ao usuário vem da minha valiosa experiência de 5 anos atuando na resolução de problemas e atendimento ao cliente na área de análise de suporte técnico.</p>
+  <p>Me chamo Marcos Brasão e sou Desenvolvedor Front-End Júnior, atualmente morando na cidade de São Paulo, Brasil. Minha paixão pelo desenvolvimento de soluções digitais inovadoras e amigáveis ao usuário vem da minha valiosa experiência de 5 anos atuando na resolução de problemas e atendimento ao cliente na área de Análise de Suporte Técnico.</p>
   <ul>
     <li>Motivado por novos aprendizados e buscando novos desafios;</li>
     <li>Meu stack envolve: HTML, CSS, JavaScript, UI/UX Design, Usabilidade e Figma;</li>
