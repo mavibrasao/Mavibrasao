@@ -21,9 +21,9 @@
 ## Quer entrar em contato?
 <div>
   <p>Conecte-se comigo em minhas plataformas</p>
-  <a href="mailto:hello.mavibrasao@gmail.com"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_mail.svg" alt="Send e-mail to hello.mavibrasao@gmail.com" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/mavibrasao/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_linkedin.svg" alt="https://www.linkedin.com/in/mavibrasao/" height="25" width="40" /></a>
-  <a href="https://www.instagram.com/mavibrasao/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_instagram.svg" alt="https://www.instagram.com/mavibrasao/" height="30" width="40" /></a>
+  <a href="mailto:hello.mavibrasao@gmail.com"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_socialmail.svg" alt="Send e-mail to hello.mavibrasao@gmail.com" height="65" width="65" /></a>
+  <a href="https://www.linkedin.com/in/mavibrasao/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_sociallinkedin.svg" alt="https://www.linkedin.com/in/mavibrasao/" height="65" width="65" /></a>
+  <a href="https://www.instagram.com/mavibrasao/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_socialinstagram.svg" alt="https://www.instagram.com/mavibrasao/" height="65" width="65" /></a>
   <!--<a href="https://mavibrasao.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/website.svg" alt="https://mavibrasao.com" height="30" width="40" /></a>-->
   <!--<a href="https://www.behance.net/mavibrasao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/behance.svg" alt="https://www.behance.net/mavibrasao" height="30" width="40" /></a>
   <a href="https://dribbble.com/mavibrasao/about?utm_source=Clipboard_%22clipboard_about%22&utm_campaign=%22mavibrasao%22&utm_content=%22About%20mavibrasao%22&utm_medium=Social_Share" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/dribbble.svg" alt="https://dribbble.com/mavibrasao" height="30" width="40" /></a>-->
