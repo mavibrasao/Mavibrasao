@@ -1,5 +1,5 @@
 <!--Um pouco sobre mim (Início)-->
-#  Olá, bem-vindo ao meu Github 👋
+#  Bem-vindo ao meu Github 👋
 ## Um pouco sobre mim
 <p>Olá! Sou o Marcos Brasão, bacharel em Ciências da Computação pela Universidade Cruzeiro do Sul e um entusiasta do desenvolvimento front-end apaixonado por transformar ideias em experiências digitais envolventes. Atualmente, estou embarcando na jornada como Desenvolvedor Front-End Júnior e UI/UX Designer.</p>
 <p>Minha jornada começou enquanto atuava na área de Análise de Suporte Técnico, especificamente com o atendimento ao cliente, o que me motivou a buscar novos conhecimentos para criar soluções digitais inovadoras, com foco na resolução de problemas e usabilidade.</p>
