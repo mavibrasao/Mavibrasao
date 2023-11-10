@@ -35,7 +35,7 @@
   <li><a href="mailto:hello.mavibrasao@gmail.com"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_socialmail.svg" alt="Enviar e-mail para:            hello.mavibrasao@gmail.com" height="60" width="60" />hello.mavibrasao@gmail.com</a></li>
 </ul>
 <!--
-<a href="https://drive.google.com/file/d/1NrtP2yU2GznS_dfNILWyzSgcTr-QGwCK/view?usp=drive_link" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_socialresume.svg" alt="Visualização de currículo" height="65" width="65" /></a>
-<a href="https://mavibrasao.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_socialwebsite.svg" alt="https://mavibrasao.com" height="65" width="65" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_socialresume.svg" alt="Visualização de currículo" height="65" width="65" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_socialwebsite.svg" alt="" height="65" width="65" /></a>
 -->
 <!--Quer entrar em contato? (Fim)-->
