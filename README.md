@@ -17,7 +17,7 @@
 <p>Explore minha jornada de código e descubra meus projetos recentes.</p>
 <ul>
   <li>📝 <a href="https://drive.google.com/file/d/1l53yBF8m19qy-iMEZIgn4S2mM-L9KQ1X/view?usp=drive_link" target="_blank">Publicação</a> de Conclusão de Bacharelado em Ciências da Computação (Universidade Cruzeiro do Sul): Uso de Computadores Quânticos para Resolução de Problemas NP.</li>
-  <li>💻 <a href="https://github.com/mavibrasao/imersaodevalura-7edicao">Repositório</a> com meus projetos da Imersão Dev Alura 7ª Edição</li>
+  <li>💻 <a href="https://github.com/mavibrasao/imersaodevalura-7edicao">Repositório</a> com meus projetos desenvolvidos durante a Imersão Dev Alura 7ª Edição</li>
 </ul>
 <br>
 
