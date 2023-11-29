@@ -39,6 +39,8 @@ Progreso de Roadmap | Estadísticas GitHub
 ## ¿Quieres ponerte en contacto?
 <p>Estoy abierto a oportunidades de aprendizaje y colaboración. Si está interesado, estaré encantado de conectarme con usted y explorar cómo podemos crear juntos experiencias digitales extraordinarias. Algunos de mis contactos en redes sociales.</p>
 
+<br>
+
 Medios sociales | Enlace de acceso
 :-------------------------:|:-------------------------:
 <a href="https://www.linkedin.com/in/mavibrasao/"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_sociallinkedin.svg" alt="https://www.linkedin.com/in/mavibrasao/" height="60" width="60" /></a>  |  <a href="https://www.linkedin.com/in/mavibrasao/">LinkedIn</a>
