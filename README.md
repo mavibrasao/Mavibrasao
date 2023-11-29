@@ -41,8 +41,8 @@ Progresso do Roadmap |  Estátisticas do GitHub
 
 Mídia Social | Link de Acesso
 :-------------------------:|:-------------------------:
-<a href="https://www.linkedin.com/in/mavibrasao/"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_sociallinkedin.svg"           alt="https://www.linkedin.com/in/mavibrasao/" height="60" width="60" /></a>  |  <a href="https://www.linkedin.com/in/mavibrasao/" target="_blank">LinkedIn</a>
-<a href="https://www.instagram.com/mavibrasao/"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_socialinstagram.svg"            alt="https://www.instagram.com/mavibrasao/" height="60" width="60" /></a>  |  <a href="https://www.instagram.com/mavibrasao/" target="_blank">Instagram</a>
+<a href="https://www.linkedin.com/in/mavibrasao/"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_sociallinkedin.svg"           alt="https://www.linkedin.com/in/mavibrasao/" height="60" width="60" /></a>  |  <a href="https://www.linkedin.com/in/mavibrasao/">LinkedIn</a>
+<a href="https://www.instagram.com/mavibrasao/"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_socialinstagram.svg"            alt="https://www.instagram.com/mavibrasao/" height="60" width="60" /></a>  |  <a href="https://www.instagram.com/mavibrasao/">Instagram</a>
 <a href="mailto:hello.mavibrasao@gmail.com"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_socialmail.svg" alt="Enviar e-mail para:            hello.mavibrasao@gmail.com" height="60" width="60" /></a>  |  <a href="mailto:hello.mavibrasao@gmail.com">hello.mavibrasao@gmail.com</a>
 <!--
 <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_socialresume.svg" alt="Visualização de currículo" height="65" width="65" /></a>
