@@ -1,7 +1,6 @@
 <!--Un poco sobre mi (Inicio)-->
 #  Bienvenido a mi Github 👋
 <p>Para ver en otro idioma, seleccione una de las siguientes opciones.</p>
-
 <a href="https://github.com/mavibrasao/Mavibrasao/blob/main/README-en.md"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_langen.svg" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/README-en.md" height="28" width="85"/></a>
 <a href="https://github.com/mavibrasao/Mavibrasao/blob/main/README.md"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_langptbr.svg" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/README.md" height="30" width="85"/></a>
 
@@ -23,8 +22,8 @@
 ## Con lo que he estado trabajando
 <p>Explora mi viaje en codificación y descubre mis proyectos recientes.</p>
 <ul>
-  <li>📝 <a href="https://drive.google.com/file/d/1l53yBF8m19qy-iMEZIgn4S2mM-L9KQ1X/view?usp=drive_link">Publicación</a> Finalización de la Licenciatura en Informática. (Universidade Cruzeiro do Sul): Uso de computadoras cuánticas para resolver problemas NP.</li>
-  <li>💻 <a href="https://github.com/mavibrasao/imersaodevalura-7edicao">Repositorio</a> con mis proyectos desarrollados durante la Alura Dev Immersion 7ma Edición</li>
+  <li>📝 <a href="https://drive.google.com/file/d/1l53yBF8m19qy-iMEZIgn4S2mM-L9KQ1X/view?usp=drive_link">Publicación</a> Finalización de la Licenciatura en Informática. (Universidade Cruzeiro do Sul): Uso de computadoras cuánticas para resolver problemas NP;</li>
+  <li>💻 <a href="https://github.com/mavibrasao/imersaodevalura-7edicao">Repositorio</a> con mis proyectos desarrollados durante la Alura Dev Immersion 7ma Edición.</li>
 </ul>
 <br>
 
