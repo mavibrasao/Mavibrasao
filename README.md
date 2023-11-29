@@ -1,9 +1,9 @@
 <!--Um pouco sobre mim (Início)-->
 #  Boas-vindas ao meu Github 👋
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_langen.svg"           alt="https://www.linkedin.com/in/mavibrasao/" height="30" width="85"/></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_langes.svg"           alt="https://www.linkedin.com/in/mavibrasao/" height="30" width="85"/></a>
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.es.md)
+<br>
 
 ## Um pouco sobre mim
 <p>Olá! Sou o Marcos Brasão, um entusiasta do Desenvolvimento Front-end e UI/UX Design, apaixonado por transformar ideias em experiências digitais envolventes, inovadoras e de fácil usabilidade.</p>
