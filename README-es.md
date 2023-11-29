@@ -23,7 +23,7 @@
 ## Con lo que he estado trabajando
 <p>Explora mi viaje en codificación y descubre mis proyectos recientes.</p>
 <ul>
-  <li>📝 <a href="https://drive.google.com/file/d/1l53yBF8m19qy-iMEZIgn4S2mM-L9KQ1X/view?usp=drive_link">Publicación</a> Finalización de la Licenciatura en Informática. (Universidade Cruzeiro do Sul): Uso de computadoras cuánticas para resolver problemas NP;</li>
+  <li>📝 <a href="https://drive.google.com/file/d/1l53yBF8m19qy-iMEZIgn4S2mM-L9KQ1X/view?usp=drive_link">Publicación</a> Finalización de la Licenciatura en Informática (Universidade Cruzeiro do Sul): Uso de computadoras cuánticas para resolver problemas NP;</li>
   <li>💻 <a href="https://github.com/mavibrasao/imersaodevalura-7edicao">Repositorio</a> con mis proyectos desarrollados durante la Alura Dev Immersion 7ma Edición.</li>
 </ul>
 <br>
