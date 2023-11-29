@@ -28,7 +28,7 @@
 </ul>
 <br>
 
-Progresso do Roadmap |  Estátisticas do GitHub 
+Progresso do Roadmap |  Estatísticas do GitHub 
 :-------------------------:|:-------------------------:
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64dc0dfc095da82caf989033?variant=dark)](https://roadmap.sh)  |  ![Mavibrasao's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavibrasao&show_icons=true&cache_seconds=86400&theme=github_dark_dimmed)
 
