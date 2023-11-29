@@ -1,7 +1,7 @@
 <!--Um pouco sobre mim (Início)-->
 #  Boas-vindas ao meu Github 👋
-<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_langen.svg"           alt="https://www.linkedin.com/in/mavibrasao/" height="30" width="85"/></a>
-<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_langes.svg"           alt="https://www.linkedin.com/in/mavibrasao/" height="30" width="85"/></a>
+<a href="https://github.com/mavibrasao/Mavibrasao/blob/main/README-en.md" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_langen.svg" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/README-en.md" height="28" width="85"/></a>
+<a href="https://github.com/mavibrasao/Mavibrasao/blob/main/README-es.md" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_langes.svg" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/README-es.md" height="30" width="85"/></a>
 
 <br>
 
