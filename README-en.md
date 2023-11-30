@@ -7,7 +7,7 @@
 
 <br>
 
-## A little about myself
+## A little about me
 <p>Hi! I'm Marcos Brasão, a Front-end Development and UI/UX Design enthusiast, passionate about transforming ideas into engaging, innovative and uncomplicated digital experiences.</p>
 <p>Currently embarking on the journey as a Junior Front-End Developer and UI/UX Designer, I am constantly updating my skills to keep up with the latest trends in front-end and back-end development, ensuring that my solutions are aligned with industry best practices.</p>
 <ul>
