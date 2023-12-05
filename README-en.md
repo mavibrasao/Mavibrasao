@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://github.com/mavibrasao/Mavibrasao/blob/main/banner_figmaen.png" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/banner_figmaen.png"/>
+<img src="https://github.com/mavibrasao/Mavibrasao/blob/main/banner_figmaen.png?raw=true" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/banner_figmaen.png?raw=true"/>
 
 <br>
 
@@ -41,7 +41,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/mavibrasao/"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/LinkedIn.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/LinkedIn.png"/></a> <a href="https://www.instagram.com/mavibrasao/"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/Instagram.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/Instagram.png"/></a> <a href="mailto:hello.mavibrasao@gmail.com"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/Email.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/Email.png"/></a> <a href="https://read.cv/mavibrasao"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/Read.cv.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/Read.cv.png"/></a>
+<a href="https://www.linkedin.com/in/mavibrasao/"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/LinkedIn.png?raw=true" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/LinkedIn.png?raw=true"/></a> <a href="https://www.instagram.com/mavibrasao/"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/Instagram.png?raw=true" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/Instagram.png?raw=true"/></a> <a href="mailto:hello.mavibrasao@gmail.com"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/Email.png?raw=true" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/Email.png?raw=true"/></a> <a href="https://read.cv/mavibrasao"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/Read.cv.png?raw=true" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/Read.cv.png?raw=true"/></a>
 
-<a href="https://github.com/mavibrasao"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/Github.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/Github.png"/></a> <a href="https://codepen.io/mavibrasao"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/CodePen.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/CodePen.png"/></a>
+<a href="https://github.com/mavibrasao"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/Github.png?raw=true" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/Github.png?raw=true"/></a> <a href="https://codepen.io/mavibrasao"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/CodePen.png?raw=true" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/CodePen.png?raw=true"/></a>
 <!--Let's connect? (End)-->
