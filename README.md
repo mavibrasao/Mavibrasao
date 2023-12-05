@@ -1,13 +1,13 @@
 <!--Um pouco sobre mim (Início)-->
 #  Boas-vindas ao meu Github 👋
-<img src="https://github.com/mavibrasao/Mavibrasao/blob/main/banner_figmaptbr.png" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/banner_figmaptbr.png"/>
-
-<br>
-
 <p>Para visualizar em outro idioma, selecione uma das opções abaixo.</p>
 
 <a href="https://github.com/mavibrasao/Mavibrasao/blob/main/README-en.md"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_langen.svg" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/README-en.md" height="28" width="85"/></a>
 <a href="https://github.com/mavibrasao/Mavibrasao/blob/main/README-es.md"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_langes.svg" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/README-es.md" height="30" width="85"/></a>
+
+<br>
+
+<img src="https://github.com/mavibrasao/Mavibrasao/blob/main/banner_figmaptbr.png" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/banner_figmaptbr.png"/>
 
 <br>
 
