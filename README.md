@@ -8,13 +8,14 @@
 <br>
 
 ## Um pouco sobre mim
-<p>Olá! Sou o Marcos Brasão, um entusiasta do Desenvolvimento Front-end e UI/UX Design, apaixonado por transformar ideias em experiências digitais envolventes, inovadoras e de fácil usabilidade.</p>
+<p>Olá! Sou o Marcos Brasão, um entusiasta do Desenvolvimento Front-end e UI/UX Design, apaixonado por transformar ideias em experiências digitais inovadoras e de fácil usabilidade.</p>
 <p>Atualmente, embarcando na jornada como Desenvolvedor Front-End Júnior e UI/UX Designer, estou constantemente atualizando minhas skills para acompanhar as últimas tendências do desenvolvimento front-end e back-end, garantindo que minhas soluções estejam alinhadas com as melhores práticas da indústria.</p>
 <ul>
   <li>💻 Meu stack atual: HTML, CSS, JavaScript, REACT, UI/UX Design, Usabilidade, Figma;</li>
   <li>✏️ Me aprimorando em: Desenvolvimento Front/Back-End, REACT, TypeScript, Node.js, SQL, Cloud;</li>
-  <li>🌎 Idiomas que falo: Português-Brasil (Nativo), Inglês (Intermediário);</li>
   <li>📬 Vamos conversar sobre como podemos criar experiências digitais extraordinárias juntos?</li>
+  <li>🌎 Idiomas que falo: Português-Brasil (Nativo), Inglês (Intermediário);</li>
+  <li>🚩 Morando em São Paulo, Brasil</li>
 </ul>
 <br>
 <!--Um pouco sobre mim (Fim)-->
