@@ -1,6 +1,6 @@
 <!--Um pouco sobre mim (Início)-->
 #  Boas-vindas ao meu Github 👋
-<img src="https://github.com/mavibrasao/Mavibrasao/blob/main/banner_figma.png" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/banner_figma.png"/>
+<img src="https://github.com/mavibrasao/Mavibrasao/blob/main/banner_figmaptbr.png" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/banner_figmaptbr.png"/>
 <p>Para visualizar em outro idioma, selecione uma das opções abaixo.</p>
 
 <a href="https://github.com/mavibrasao/Mavibrasao/blob/main/README-en.md"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_langen.svg" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/README-en.md" height="28" width="85"/></a>
@@ -12,11 +12,12 @@
 <p>Olá! Sou o Marcos Brasão, um entusiasta do Desenvolvimento Front-end e UI/UX Design, apaixonado por transformar ideias em experiências digitais inovadoras e de fácil usabilidade.</p>
 <p>Atualmente, embarcando na jornada como Desenvolvedor Front-End Júnior e UI/UX Designer, estou constantemente atualizando minhas skills para acompanhar as últimas tendências do desenvolvimento front-end e back-end, garantindo que minhas soluções estejam alinhadas com as melhores práticas da indústria.</p>
 <ul>
+  <li>📌 Atualmente em São Paulo, Brasil;</li>
+  <li>🌎 Idiomas que falo: Português-Brasil (Nativo), Inglês (Intermediário);</li>
   <li>💻 Meu stack atual: HTML, CSS, JavaScript, REACT, UI/UX Design, Usabilidade, Figma;</li>
   <li>✏️ Me aprimorando em: Desenvolvimento Front/Back-End, REACT, TypeScript, Node.js, SQL, Cloud;</li>
-  <li>📬 Vamos conversar sobre como podemos criar experiências digitais extraordinárias juntos?</li>
-  <li>🌎 Idiomas que falo: Português-Brasil (Nativo), Inglês (Intermediário);</li>
-  <li>🚩 Morando em São Paulo, Brasil</li>
+  <li>💬 Vamos conversar sobre como podemos criar experiências digitais extraordinárias juntos?</li>
+
 </ul>
 <br>
 <!--Um pouco sobre mim (Fim)-->
@@ -30,16 +31,11 @@
 </ul>
 <br>
 
-Progresso do Roadmap |  Estatísticas do GitHub 
-:-------------------------:|:-------------------------:
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64dc0dfc095da82caf989033?variant=dark)](https://roadmap.sh)  |  ![Mavibrasao's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavibrasao&show_icons=true&cache_seconds=86400&theme=github_dark_dimmed)
-
-<br>
 <!--Projetos (Fim)-->
 
 <!--Quer entrar em contato? (Início)-->
 ## Quer entrar em contato?
-<p>Estou aberto à oportunidades de aprendizado e colaboração. Se tiver interesse, ficarei feliz em conectar-me com você e explorar como podemos criar experiências digitais extraordinárias juntos. Algumas de minhas mídias sociais para contato.</p>
+<p>Estou aberto à oportunidades de aprendizado e colaboração. Se tiver interesse, ficarei feliz em conectar-me com você e explorar como podemos criar experiências digitais extraordinárias juntos.</p>
 
 <br>
 
@@ -47,14 +43,4 @@ Progresso do Roadmap |  Estatísticas do GitHub
 
 <a href="https://github.com/mavibrasao"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/Github.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/Github.png"/></a> <a href="https://codepen.io/mavibrasao"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/CodePen.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/CodePen.png"/></a>
 
-
-Mídia Social | Link de Acesso
-:-------------------------:|:-------------------------:
-<a href="https://www.linkedin.com/in/mavibrasao/"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_sociallinkedin.svg" alt="https://www.linkedin.com/in/mavibrasao/" height="60" width="60" /></a>  |  <a href="https://www.linkedin.com/in/mavibrasao/">LinkedIn</a>
-<a href="https://www.instagram.com/mavibrasao/"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_socialinstagram.svg" alt="https://www.instagram.com/mavibrasao/" height="60" width="60" /></a>  |  <a href="https://www.instagram.com/mavibrasao/">Instagram</a>
-<a href="mailto:hello.mavibrasao@gmail.com"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_socialmail.svg" alt="Enviar e-mail para: hello.mavibrasao@gmail.com" height="60" width="60" /></a>  |  <a href="mailto:hello.mavibrasao@gmail.com">hello.mavibrasao@gmail.com</a>
-<!--
-<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_socialresume.svg" alt="Visualização de currículo" height="65" width="65" /></a>
-<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_socialwebsite.svg" alt="" height="65" width="65" /></a>
--->
 <!--Quer entrar em contato? (Fim)-->
