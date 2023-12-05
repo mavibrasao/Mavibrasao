@@ -1,6 +1,6 @@
 <!--A little about me (Start)-->
 #  Welcome to my Github 👋
-<img src="https://github.com/mavibrasao/Mavibrasao/blob/main/banner_figmapen.png" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/banner_figmaen.png"/>
+<img src="https://github.com/mavibrasao/Mavibrasao/blob/main/banner_figmaen.png" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/banner_figmaen.png"/>
 
 <br>
 
