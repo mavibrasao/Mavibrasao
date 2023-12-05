@@ -12,7 +12,7 @@
 <br>
 
 ## Um pouco sobre mim
-<p>Olá! Sou o Marcos Brasão, um entusiasta do Desenvolvimento Front-end e UI/UX Design, apaixonado por transformar ideias em experiências digitais inovadoras e de fácil usabilidade.</p>
+<p>Olá! Sou entusiasta do Desenvolvimento Front-end e UI/UX Design, apaixonado por transformar ideias em experiências digitais inovadoras e de fácil usabilidade.</p>
 <p>Atualmente, embarcando na jornada como Desenvolvedor Front-End Júnior e UI/UX Designer, estou constantemente atualizando minhas skills para acompanhar as últimas tendências do desenvolvimento front-end e back-end, garantindo que minhas soluções estejam alinhadas com as melhores práticas da indústria.</p>
 
 <br>
