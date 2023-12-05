@@ -43,6 +43,11 @@ Progresso do Roadmap |  Estatísticas do GitHub
 
 <br>
 
+<a href="https://www.linkedin.com/in/mavibrasao/"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/LinkedIn.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/LinkedIn.png"/></a> <a href="https://www.instagram.com/mavibrasao/"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/Instagram.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/Instagram.png"/></a> <a href="mailto:hello.mavibrasao@gmail.com"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/Email.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/Email.png"/></a> <a href="https://read.cv/mavibrasao"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/Read.cv.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/Read.cv.png"/></a>
+
+<a href="https://github.com/mavibrasao"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/Github.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/Github.png"/></a> <a href="https://codepen.io/mavibrasao"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/CodePen.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/CodePen.png"/></a>
+
+
 Mídia Social | Link de Acesso
 :-------------------------:|:-------------------------:
 <a href="https://www.linkedin.com/in/mavibrasao/"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icons_sociallinkedin.svg" alt="https://www.linkedin.com/in/mavibrasao/" height="60" width="60" /></a>  |  <a href="https://www.linkedin.com/in/mavibrasao/">LinkedIn</a>
