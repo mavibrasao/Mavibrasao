@@ -35,7 +35,7 @@
 <br>
 <!--Projetos (End)-->
 
-<!--Want to get in touch? (Start)-->
+<!--Let's connect (Start)-->
 ## Let's connect?
 <p>I'm open to learning and collaboration opportunities. If you're interested, I'd be happy to connect with you and explore how we can create extraordinary digital experiences together.</p>
 
@@ -44,4 +44,4 @@
 <a href="https://www.linkedin.com/in/mavibrasao/"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/LinkedIn.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/LinkedIn.png"/></a> <a href="https://www.instagram.com/mavibrasao/"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/Instagram.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/Instagram.png"/></a> <a href="mailto:hello.mavibrasao@gmail.com"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/Email.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/Email.png"/></a> <a href="https://read.cv/mavibrasao"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/Read.cv.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/Read.cv.png"/></a>
 
 <a href="https://github.com/mavibrasao"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/Github.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/Github.png"/></a> <a href="https://codepen.io/mavibrasao"><img src="https://github.com/mavibrasao/Mavibrasao/blob/main/CodePen.png" height="130" width="130" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/CodePen.png"/></a>
-<!--Want to get in touch? (End)-->
+<!--Let's connect? (End)-->
