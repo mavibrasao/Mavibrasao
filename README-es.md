@@ -1,5 +1,5 @@
 <!--Un poco sobre mi (Inicio)-->
-#  Bienvenido a mi Github 👋
+#  Bienvenido a mi Github
 <p>Para ver en otro idioma, seleccione una de las siguientes opciones.</p>
 
 <a href="https://github.com/mavibrasao/Mavibrasao/blob/main/README-en.md"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_langen.svg" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/README-en.md" height="28" width="85"/></a>
