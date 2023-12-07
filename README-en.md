@@ -29,7 +29,7 @@
 <br>
 
 <ul>
-  <li>💻 <a href="https://drive.google.com/file/d/1l53yBF8m19qy-iMEZIgn4S2mM-L9KQ1X/view?usp=drive_link">Publication</a> Completion of Bachelor's Degree in Computer Science (Universidade Cruzeiro do Sul): The Use of Quantum Computers to Solve NP Problems;</li>
+  <li>💻 <a href="https://drive.google.com/file/d/1l53yBF8m19qy-iMEZIgn4S2mM-L9KQ1X/view?usp=drive_link">Publication</a> for my Bachelor's Completion: The Use of Quantum Computers to Solve NP Problems;</li>  
   <li>💻 <a href="https://github.com/mavibrasao/imersaodevalura-7edicao">Repository</a> with my projects developed during the Alura Dev Immersion 7th Edition.</li>
 </ul>
 <br>
