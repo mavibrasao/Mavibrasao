@@ -41,9 +41,6 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/mavibrasao/?locale=en_US"><img src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_sociallinkedin.png" height="150" width="150" alt="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_sociallinkedin.png"/></a>
-<a href="https://read.cv/mavibrasao"><img src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_socialreadcv.png" height="150" width="150" alt="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_socialreadcv.png"/></a>
 <a href="https://bento.me/mavibrasao"><img src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_socialbento.png" height="150" width="150" alt="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_socialbento.png"/></a>
-<a href="mailto:hello.mavibrasao@gmail.com"><img src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_socialemail.png" height="150" width="150" alt="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_socialemail.png"/></a>
 
 <!--Let's connect? (End)-->
