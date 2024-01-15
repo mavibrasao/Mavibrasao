@@ -19,7 +19,7 @@
 
 <ul>
   <li>📌 Atualmente em São Paulo, Brasil e falando Português-Brasil (Nativo), Inglês (Intermediário);</li>
-  <li>✏️ Meu stack atual: HTML, CSS, JavaScript, REACT, UI/UX Design, Usabilidade, Figma e me aprimorando em: Desenvolvimento Front/Back-End, REACT, TypeScript, Node.js, SQL, Cloud;</li>
+  <li>✏️ Meu stack atual: HTML, CSS, JavaScript, UI/UX Design, Usabilidade, Figma e me aprimorando em: Desenvolvimento Front/Back-End, REACT, TypeScript, Node.js, SQL, Cloud;</li>
   <li>💬 Vamos conversar sobre como podemos criar experiências digitais extraordinárias juntos?</li>
 </ul>
 <br>
