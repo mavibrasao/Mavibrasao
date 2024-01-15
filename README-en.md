@@ -16,7 +16,7 @@
 <p>Currently embarking on the journey as a Junior Front-End Developer and UI/UX Designer, I am constantly updating my skills to keep up with the latest trends in front-end and back-end development, ensuring that my solutions are aligned with industry best practices.</p>
 <ul>
   <li>📌 Currently in São Paulo, Brazil and speaking Portuguese-Brazil (Native), English (Intermediate);</li>
-  <li>✏️ My current stack: HTML, CSS, JavaScript, REACT, UI/UX Design, Usability, Figma and improving in: Front/Back-End Development, REACT, TypeScript, Node.js, SQL, Cloud;</li>
+  <li>✏️ My current stack: HTML, CSS, JavaScript, UI/UX Design, Usability, Figma and improving in: Front/Back-End Development, REACT, TypeScript, Node.js, SQL, Cloud;</li>
   <li>💬 Let's talk about how we can create extraordinary digital experiences together?</li>
 </ul>
 <br>
