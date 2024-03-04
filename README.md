@@ -1,6 +1,6 @@
 <!--Um pouco sobre mim (Início)-->
 #  Boas-vindas ao meu Github
-<p>Para visualizar em outro idioma, selecione uma das opções abaixo.</p>
+<p>Para visualizar em outro idioma, selecione a opção abaixo.</p>
 
 <a href="https://github.com/mavibrasao/Mavibrasao/blob/main/README-en.md"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_langen.svg" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/README-en.md" height="28" width="85"/></a>
 
