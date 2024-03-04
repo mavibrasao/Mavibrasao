@@ -1,6 +1,6 @@
 <!--A little about me (Start)-->
 #  Welcome to my Github
-<p>To view in another language, select one of the following options.</p>
+<p>To view in another language, select the following option.</p>
 
 <a href="https://github.com/mavibrasao/Mavibrasao/blob/main/README.md"><img align="center" src="https://raw.githubusercontent.com/mavibrasao/Mavibrasao/main/icon_langptbr.svg" alt="https://github.com/mavibrasao/Mavibrasao/blob/main/README.md" height="30" width="85"/></a>
 
